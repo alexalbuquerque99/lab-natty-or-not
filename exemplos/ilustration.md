@@ -1,4 +1,4 @@
-# Projeto Extremamente Aesthetic 😉
+# Projeto Extremamente Autentico!!! 😉
 
 ## 📒 Descrição
 Este projeto busca explorar a fusão entre criatividade humana e inteligência artificial para produzir conteúdos visualmente marcantes e emocionalmente envolventes. Utilizando IAs generativas de última geração, criamos uma experiência única que combina tecnologia avançada com uma abordagem artística refinada.
