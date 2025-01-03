@@ -1,23 +1,52 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visualização da Arte e Vídeo</title>
+    <title>Vídeo Futurista</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            color: #ffffff;
+            font-family: 'Arial', sans-serif;
+        }
+        .video-container {
+            position: relative;
+            width: 80%;
+            max-width: 800px;
+            border: 2px solid #00ffcc;
+            box-shadow: 0 0 20px #00ffcc;
+            border-radius: 15px;
+            overflow: hidden;
+        }
+        video {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            pointer-events: none;
+        }
+    </style>
 </head>
 <body>
-
-    <h1>Visualização da Arte</h1>
-
-    <p>Este repositório contém uma arte gerada por uma plataforma de criação de IA. Abaixo você pode visualizar a imagem gerada e assistir ao vídeo.</p>
-
-    <h2>Arte Gerada</h2>
-    <img src="https://app.runwayml.com/creation/4a13069c-08b3-4355-84e1-4d4f13755f0b" alt="Arte Gerada" style="max-width: 100%; height: auto;">
-
-    <hr>
-
-    <h2>Vídeo da Arte Gerada</h2>
-    <p>Assista ao vídeo com o processo de criação da arte gerada na plataforma.</p>
-    <!-- Substitua 'YOUR_VIDEO_ID' pelo ID do vídeo real -->
-    <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Assist
+    <div class="video-container">
+        <video controls>
+            <source src="URL_DO_SEU_VIDEO.mp4" type="video/mp4">
+            Seu navegador não suporta a exibição deste vídeo.
+        </video>
+        <div class="overlay"></div>
+    </div>
+</body>
+</html>
