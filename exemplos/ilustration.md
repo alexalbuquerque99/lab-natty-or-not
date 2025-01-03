@@ -1,33 +1,23 @@
-# Visualização da Arte
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualização da Arte e Vídeo</title>
+</head>
+<body>
 
-Este repositório contém uma arte gerada por uma plataforma de criação de IA. Abaixo você pode visualizar a imagem gerada e assistir ao vídeo.
+    <h1>Visualização da Arte</h1>
 
-## Arte Gerada
+    <p>Este repositório contém uma arte gerada por uma plataforma de criação de IA. Abaixo você pode visualizar a imagem gerada e assistir ao vídeo.</p>
 
-![Arte Gerada](https://app.runwayml.com/creation/4a13069c-08b3-4355-84e1-4d4f13755f0b)
+    <h2>Arte Gerada</h2>
+    <img src="https://app.runwayml.com/creation/4a13069c-08b3-4355-84e1-4d4f13755f0b" alt="Arte Gerada" style="max-width: 100%; height: auto;">
 
----
+    <hr>
 
-## Vídeo da Arte Gerada
-
-Assista ao vídeo com o processo de criação da arte gerada na plataforma.
-
-[![Assista ao vídeo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
----
-
-## Descrição
-
-A arte foi criada na plataforma Runway ML, utilizando tecnologia de inteligência artificial para gerar imagens de alta qualidade.
-
----
-
-## Como Visualizar
-
-1. Abra o repositório.
-2. Navegue até este arquivo `README.md` para visualizar a arte diretamente.
-3. Se quiser, faça o download da imagem para salvá-la em seu computador.
-
----
-
-**Link para a Plataforma:** [Runway ML](https://runwayml.com)
+    <h2>Vídeo da Arte Gerada</h2>
+    <p>Assista ao vídeo com o processo de criação da arte gerada na plataforma.</p>
+    <!-- Substitua 'YOUR_VIDEO_ID' pelo ID do vídeo real -->
+    <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Assist
