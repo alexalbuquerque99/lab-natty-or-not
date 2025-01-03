@@ -1,10 +1,18 @@
 # Visualização da Arte
 
-Este repositório contém uma arte gerada por uma plataforma de criação de IA. Abaixo você pode visualizar a imagem gerada.
+Este repositório contém uma arte gerada por uma plataforma de criação de IA. Abaixo você pode visualizar a imagem gerada e assistir ao vídeo.
 
 ## Arte Gerada
 
 ![Arte Gerada](https://app.runwayml.com/creation/4a13069c-08b3-4355-84e1-4d4f13755f0b)
+
+---
+
+## Vídeo da Arte Gerada
+
+Assista ao vídeo com o processo de criação da arte gerada na plataforma.
+
+[![Assista ao vídeo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
